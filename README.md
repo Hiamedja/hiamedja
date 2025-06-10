@@ -57,7 +57,7 @@ projects.
 
 - **LinkedIn**: https://www.linkedin.com/in/hiba-amedjar/  
 - **Email**: hibaamed2000@gmail.com
-- - **Portfolio**: [hibaamedjar.dev](https://hibaamedjar.vercel.app/)
+- **Portfolio**: [hibaamedjar.dev](https://hibaamedjar.vercel.app/)
 
 ---
 
