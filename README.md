@@ -56,7 +56,8 @@ I’m always happy to meet new people, talk about cool ideas, and collaborate on
 projects.
 
 - **LinkedIn**: https://www.linkedin.com/in/hiba-amedjar/  
-- **Email**: hibaamed2000@gmail.com  
+- **Email**: hibaamed2000@gmail.com
+- - **Portfolio**: [hibaamedjar.dev](https://hibaamedjar.vercel.app/)
 
 ---
 
