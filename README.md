@@ -1,5 +1,5 @@
 
-#👋 Hi, I'm Hiba! 🚀
+# 👋 Hi, I'm Hiba! 🚀
 
 I'm a **Fullstack Developer in progress**, grounded in **Frontend Development** and currently 
 exploring the exciting world of **Backend technologies**. I love crafting **interactive, 
