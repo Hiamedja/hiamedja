@@ -55,7 +55,7 @@ data with databases, and write server-side logic that supports fullstack applica
 I’m always happy to meet new people, talk about cool ideas, and collaborate on meaningful 
 projects.
 
-- **LinkedIn**: https://www.linkedin.com/in/hiba-amedjar/  
+- **LinkedIn**: [Hiba Amedjar](https://www.linkedin.com/in/hiba-amedjar/).  
 - **Email**: hibaamed2000@gmail.com
 - **Portfolio**: [hibaamedjar.dev](https://hibaamedjar.vercel.app/)
 
