@@ -13,7 +13,7 @@ experiences — on both the frontend and backend.
 ## 🔧 Skills & Technologies
 
 - **Frontend Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Frontend Frameworks & Libraries**: React, Next.js, Framer Motion  
+- **Frontend Frameworks & Libraries**: React, React Native, Next.js, Framer Motion  
 - **Design & Tools**: Figma, CSS3 Animations, NPM, Git  
 - **Version Control**: Git, GitHub  
 - **Responsive Design**: Mobile-first approach, Flexbox  
